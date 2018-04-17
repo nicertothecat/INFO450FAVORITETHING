@@ -9,6 +9,7 @@ Game::Game()
 
 Game::Game(string gameid, string gamename, string gameplat, double gameprice, int gameyear, char gamerating)
 {
+	//
 	id = gameid;
 	name = gamename;
 	platform = gameplat;
